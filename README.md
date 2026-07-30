@@ -116,4 +116,4 @@ You can also sign up new accounts from the Signup tab.
 ## 📄 License
 
 Hackathon prototype — free to use, modify, and extend.
-https://superb-daifuku-f5ea60.netlify.app/
+https://smartclassroom-ejwshepq7lnw2xrur7h5df.streamlit.app/
